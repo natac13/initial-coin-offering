@@ -9,7 +9,6 @@ import {
   TOKEN_CONTRACT_ABI,
   TOKEN_CONTRACT_ADDRESS,
 } from "../constants";
-// @ts-expect-error style sheet
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
